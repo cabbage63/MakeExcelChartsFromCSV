@@ -1,0 +1,17 @@
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\MakeExcelChartsFromCSV.Form1.resources
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\DrawExcelGraph.Properties.Resources.resources
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\MakeExcelChartsFromCSV.csproj.GenerateResource.Cache
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\DrawExcelGraph.exe
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\DrawExcelGraph.pdb
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\DrawExcelGraph.exe.config
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\DrawExcelGraph.exe
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\DrawExcelGraph.pdb
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\ExcelApi.dll
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\NetOffice.dll
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\OfficeApi.dll
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\VBIDEApi.dll
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\ExcelApi.xml
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\NetOffice.xml
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\OfficeApi.xml
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\bin\Debug\VBIDEApi.xml
+C:\Users\TsukaLab\Documents\testAppSeries\cs\DrawExcelGraph\DrawExcelGraph\obj\Debug\MakeExcelChartsFromCSV.csprojResolveAssemblyReference.cache
